@@ -1,0 +1,1 @@
+Implementation of google's concept of six degrees of Kevin Bacon as a two-way connection finder between any two actors or actresses in the IMDB database, using a simple BFS algorithm implemented in Python.
